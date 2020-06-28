@@ -1,0 +1,88 @@
+html
+{
+    scroll-behavior:smooth;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+header
+{
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+}
+.navbar-brand
+{
+    font-size: 2em;
+    font-weight: 500;
+    color: #ffffff;
+    font-family: 'MuseoModerno', cursive;
+    letter-spacing: -1px;
+}
+.navbar-dark 
+{
+    color: #ffffff;
+}
+.nav-link  
+{
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.banner
+{
+    position: relative;
+    background: url(backgroundimg.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    padding: 250px 0px 250px;
+}
+.heading1
+{
+    letter-spacing: -6px;
+    color:#ffffff;
+    font-size: 4em;
+    text-decoration: underline;
+}
+.paragraph1
+{
+    color:#ffffff;
+    font-size: 18px;
+}
+.button1
+{
+    color:#000000;
+    background-color: #ffffff;
+}
+.button1:hover
+{
+    color:#ffffff;
+    background-color: #000000;
+}
+
+
+footer
+{
+    padding: 10px;
+    background-color: #000000;
+}
+#followicon
+{
+    font-size: 3em;
+    margin: 20px;
+    color:black;
+}
+#created
+{
+    color:#ffffff;
+}
+
+
+
+
+
